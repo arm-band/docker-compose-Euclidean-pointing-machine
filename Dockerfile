@@ -1,0 +1,1 @@
+FROM fjudith/draw.io:latest
